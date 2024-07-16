@@ -1,0 +1,1 @@
+This file contains the Python code for encrypting and decrypting a text message when a user provides a required choice like 1,2 and by specifing a text message they can encrypt and decrypt the message
